@@ -11,10 +11,8 @@
 - [x] 已完成任务day3：毕业作品。
 
 
-
-![GitHub徽章](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo - 点击了解更多")
+[![pZfdlYq.jpg](https://s41.ax1x.com/2026/01/30/pZfdlYq.jpg)](https://imgchr.com/i/pZfdlYq)
 
 | day1 | day2 | day3 |
 |-------|-------|-------|
 | 已完成 | 已完成 | 已完成 |
-
